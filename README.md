@@ -39,7 +39,7 @@ The CNN model was evaluated using the following metrics:
 - **Loss**: Measures the categorical crossentropy loss during training and validation.
 
 ### Training & Validation Accuracy
-[![Training Accuracy](https://github.com/angelalim88/RockPaperScissor-Image-Prediction/images/training_accuracy.png)]
+[![Training Accuracy](https://github.com/angelalim88/RockPaperScissor-Image-Prediction/blob/main/images/training_accuracy.png)]
 
 ## Evaluation Results
 The training history reveals the following:
@@ -47,4 +47,4 @@ The training history reveals the following:
 - The model demonstrates reliable gesture classification, suitable for applications like real-time Rock-Paper-Scissors games.
 
 ## Paper Gesture Test
-[![Paper Gesture Test](https://github.com/angelalim88/RockPaperScissor-Image-Prediction/images/test_model.png)]
+[![Paper Gesture Test](https://github.com/angelalim88/RockPaperScissor-Image-Prediction/blob/mainimages/test_model.png)]

@@ -47,4 +47,4 @@ The training history reveals the following:
 - The model demonstrates reliable gesture classification, suitable for applications like real-time Rock-Paper-Scissors games.
 
 ## Paper Gesture Test
-[![Paper Gesture Test](https://github.com/angelalim88/RockPaperScissor-Image-Prediction/blob/mainimages/test_model.png)]
+[![Paper Gesture Test](https://github.com/angelalim88/RockPaperScissor-Image-Prediction/blob/main/images/test_model.png)]
